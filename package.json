@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blog.js",
+  "scripts": {
+    "start": "nodemon --inspect ./blog.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "demoblog",
+    "f8",
+    "node",
+    "f8"
+  ],
+  "author": "thanhvy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
